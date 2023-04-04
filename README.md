@@ -1,4 +1,4 @@
-/header.png
+### /header.png
 
 
 Here are some ideas to get you started:
