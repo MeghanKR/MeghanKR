@@ -4,4 +4,4 @@
 ##Find me around the web:
 
 - <a href = "https://twitter.com/meghank_ramirez?s=11&t=tWM_eC_g0JGc9ISHby0JPQ"> Twitter </a>
-- <a href = "[<www.linkedin.com/in/meghan-ramirez>](https://www.linkedin.com/in/meghan-ramirez)" LinkedIn </a>
+- <a href = "https://www.linkedin.com/in/meghan-ramirez"> LinkedIn </a>
