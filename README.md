@@ -1,2 +1,3 @@
-/header.png
+<picture>
+  < source media = "/header.png">
 
