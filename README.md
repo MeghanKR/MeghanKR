@@ -1,2 +1,2 @@
-MeghanKR/header.png
+/MeghanKR/header.png
 
