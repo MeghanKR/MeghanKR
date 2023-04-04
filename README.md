@@ -3,5 +3,5 @@
 
 ##Find me around the web:
 
-Twitter: <https://twitter.com/meghank_ramirez?s=11&t=tWM_eC_g0JGc9ISHby0JPQ>
-LinkedIn: <www.linkedin.com/in/meghan-ramirez>
+- <a href = "https://twitter.com/meghank_ramirez?s=11&t=tWM_eC_g0JGc9ISHby0JPQ"> Twitter </a>
+- <a href = "<www.linkedin.com/in/meghan-ramirez>"  LinkedIn </a>
