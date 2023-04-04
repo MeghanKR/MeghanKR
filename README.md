@@ -1,3 +1,2 @@
-<picture>
-  < source media = "/header.png">
+MeghanKR/header.png
 
